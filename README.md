@@ -16,9 +16,7 @@ python csv_splitter.py big_file.csv 30000
 on the command line.
 
 This will create four files called:
-big_file_part_1.csv</n>
-big_file_part_2.csv
-big_file_part_3.csv
-big_file_part_4.csv
+
+big_file_part_1.csv, big_file_part_2.csv, big_file_part_3.csv, and big_file_part_4.csv
 
 in the same directory as csv_splitter.py and big_file.csv
