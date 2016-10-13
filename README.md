@@ -4,7 +4,7 @@ This script splits a csv into chunks of a given number of rows each,
 each with the header from the original csv
 
 To run it, type:
-python csv_splitter.py <csv filename> <number of rows per chunk>
+python csv_splitter.py filename.csv number_of_rows
 
 For example:
 Suppose big_file.csv has 100000 rows. To run this script and split big_file.csv into <=30000 row chunks,
